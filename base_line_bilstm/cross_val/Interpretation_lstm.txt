@@ -1,0 +1,3 @@
+From the cross validation graphs, we can see that the lstm managed to converge fairly quickly, this seems to 
+indicate that it got stuck in a manafold relatively quickly. The lstm did not really do that well for us
+on actual scores though however when different thresh holds are used, as it managed to have a very high recall. 

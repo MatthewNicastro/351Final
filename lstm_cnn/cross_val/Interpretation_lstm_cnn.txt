@@ -1,0 +1,3 @@
+The bilstm cnn seemed to be our best model. From the graphs we can see that towards the end it did begin to
+over fit however not as quickly as the baseline bilstm and cnn alone. The bilstm cnn also had a much more
+stable outputs on the validation set than the other two models. 

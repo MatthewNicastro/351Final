@@ -1,0 +1,3 @@
+The CNN by itself as a base line was not a very good predictor, as it has a very high tendency to overfit the
+data. This can easily be observed from the graphs as the test error and test f1 score drifted very far off
+from the validation error and validation f1 score. 

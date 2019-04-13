@@ -1,0 +1,10 @@
+input_size = 300
+hidden_dim = 300
+num_layers = 2
+num_channels = 70
+kernel_size = 1
+pool_size = 100
+dropout = 0.1
+
+Trained with cleaned_v6 5 folds 
+used embedding master_v2
